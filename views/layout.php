@@ -6,8 +6,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title><?php echo $data['title'] ;?></title>
-<meta name="keywords" content="CÔNG TY TNHH MÁY TÍNH VIỆT THẢO - LAPTOP THÁI HÀ" />
-<meta name="description" content="CÔNG TY TNHH MÁY TÍNH VIỆT THẢO - LAPTOP THÁI HÀ" />
+<meta name="keywords" content="PROJECT Tour" />
+<meta name="description" content="PROJECT Tour" />
 <base href="<?php echo  base_url ;?>" />
 <?php loadview("scripts");?>
 

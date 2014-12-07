@@ -2,7 +2,7 @@
 	$data = array();
 	$db = new libraries_libhome();
 	$pro = new model_mpro();
-	$data['title'] = "Demo website thứ 2";
+	$data['title'] = "Welcome tour!";
 	$data['list_slide'] = $db->list_slide();
 	$data['list_pro_new'] = $pro->list_pro_new();
 	$data['list_pro_hot'] = $pro->list_pro_hot();
