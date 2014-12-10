@@ -5,18 +5,19 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title><?php echo $data['title'] ;?></title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Traveline Booking</title>
 <meta name="keywords" content="PROJECT Tour" />
 <meta name="description" content="PROJECT Tour" />
 <base href="<?php echo  base_url ;?>" />
 <?php loadview("scripts");?>
-
 </head>
-<body>
+<body class="index-mini">
 	<?php
-        loadview("header",$data);
+        // loadview("header",$data);
         loadview("content",$data);
-        loadview("buttom",$data);
+        // loadview("buttom",$data);
     ?>
 </body>
 </html>
