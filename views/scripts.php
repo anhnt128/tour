@@ -19,12 +19,22 @@
 <link rel="stylesheet" type="text/css" href="<?php echo "/tour/public/styles/style.css";?>" />
 <link rel="stylesheet" type="text/css" href="<?php echo "/tour/public/styles/popup.css";?>" />
 <link rel="stylesheet" type="text/css" href="<?php echo "/tour/public/styles/magiczoom.css";?>" />
+<!--
 <script type="text/javascript" src="<?php echo "/tour/public/js/jquery1.10.2.min.js";?>"></script>
 <script type="text/javascript" src="<?php echo "/tour/public/js/tabs.js";?>"></script>
 <script type="text/javascript" src="<?php echo "/tour/public/js/tooltip.js";?>"></script>
 <script type="text/javascript" src="<?php echo "/tour/public/js/popup.js";?>"></script>
 <script type="text/javascript" src="<?php echo "/tour/public/js/jqueryEasing.js";?>"></script>
 <script type="text/javascript" src="<?php echo "/tour/public/js/ajax.js";?>"></script>
+-->
+<link rel="shortcut icon" href="<?php echo base_url."public/images/favicon.ico" ;?>" />
+<link rel="stylesheet" type="text/css" href="<?php echo base_url."public/styles/style.css";?>" />
+<link rel="stylesheet" type="text/css" href="<?php echo base_url."public/styles/magiczoom.css";?>" />
+<script type="text/javascript" src="<?php echo base_url."public/js/jquery1.10.2.min.js";?>"></script>
+<script type="text/javascript" src="<?php echo base_url."public/js/tabs.js";?>"></script>
+<script type="text/javascript" src="<?php echo base_url."public/js/tooltip.js";?>"></script>
+<script type="text/javascript" src="<?php echo base_url."public/js/jqueryEasing.js";?>"></script>
+<script type="text/javascript" src="<?php echo base_url."public/js/ajax.js";?>"></script>
 
 <script src="<?php echo base_url."public/js/magiczoom.js";?>" type="text/javascript"></script>
 <script type="text/javascript">
