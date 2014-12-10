@@ -3,13 +3,6 @@
         <div id="header_logo">
             <a href="<?php echo base_url ;?>" title="logo"><img src="<?php echo base_url."public/images/";?>logo.png" alt="logo" /></a>
         </div>
-        <div id="header_right">
-            <div id="header_right_top">
-                <div id="header_right_top_hotline">
-                    <p class="txt_color" title="Hotline 0000 000 000">HOTLINE</p><span class="number_hotline">0000 000 000</span>
-                </div>
-            </div>
-        </div>
     </div>
 </div>
 <div id="bg_content">
