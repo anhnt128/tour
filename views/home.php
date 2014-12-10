@@ -5,7 +5,6 @@
     width: 960px;
 }
 </style>
-<div id="backgroundPopup"></div>
 <div id="slider">
     <div id="wowslider-container1">
         <div class="ws_images">
