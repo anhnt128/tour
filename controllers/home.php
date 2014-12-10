@@ -4,22 +4,14 @@
 	$pro = new model_mpro();
 	$dbtours = new model_tours;
 	$dbschedules = new model_schedules;
-	$data['schedules'] = $dbschedules->getAll();
-	// print_r($tours->getAll());exit();
+	
 	if (isset($_POST['data'])) {
-		$dataSearch = $dbtours->getSearch($_POST['data']);
-		print_r($dataSearch);exit();
 		$data_input = $_POST['data'];
-		if ($data_input['Search']['time_start'] > $data['schedules'][0]['created']) {
-			print_r('lon hon');
-		} else {
-			print_r('nho hon');
-		}
-		print_r($data['schedules'][0]);
-		print_r($data_input);exit();
+		$data['search_out'] = $dbtours->getSearch($data_input);
 	}
 	
-	//print_r($data['schedules'][0]['id']);exit();
+	$data['schedules'] = $dbschedules->getAll();
+	$data['tours'] = $dbtours->getAll();
 	$data['title'] = "Welcome tour!";
 	$data['list_slide'] = $db->list_slide();
 	$data['list_pro_new'] = $pro->list_pro_new();

@@ -22,8 +22,20 @@
 			if ($data['Search']['to'] != null) {
 				$sql .= "AND schedule_end = '".$data['Search']['to']."'";
 			}
-			$this->query($sql);
+			if ($data['Search']['costs'] != null) {
+				$sql .= "AND costs = '".$data['Search']['costs']."'";
+			}
+			
+			if ($data['Search']['time_start'] != null) {
+				$time_start = date('y-m-d', strtotime($data['Search']['time_start']));
+				$sql .= "AND time_start <= '".$time_start."'";
+			}
 
+			if ($data['Search']['time_end'] != null) {
+				$time_end = date('y-m-d', strtotime($data['Search']['time_end']));
+				$sql .= "AND time_end >= '".$time_end."'";
+			}
+			$this->query($sql);
 			return $this->fetchAll();
 		}
 	}

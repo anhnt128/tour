@@ -240,459 +240,94 @@
 
 
           <section id="amazing-tours" class="section section-amazing-tours wide-fat">
-
-                 
                 <div class="container"> 
-<!-- 
-                    <article  class="contact section-intro">
-
-                        <h1 class="page-title">Amazing <span class="higlight">Tours</span></h1>
-                        <div class="slide-holder">
-                            <div class="items-holder">
-                                <div class="item">
-                                    <div class="thumb">
-                                        <img src="http://placehold.it/100x100" alt="" />
-                                    </div>
-                                    <div class="item-tag">
-                                        1 hours ago <span>ho chi minh City, vietnam</span> Tour only <span>$365</span>
-                                    </div>
-                                    <div class="body">
-
-                                        <p>Integer sollicitudin ligula non enim sodales, non lacinia nunc ornare. Sed commodo tempor dapibus.<br> Duis convallis turpis in tortor volutpat, eget rhoncus nisi fringilla. Phasellus ornare risus in euismod varius nullam feugiat ultrices.<br> Sed condimentum est libero, aliquet iaculis diam bibendum ullamcorper.</p>
-
-                                    </div>              
-                                </div>
-
-                                <div class="item">
-                                    <div class="thumb">
-                                        <img src="http://placehold.it/100x100" alt="" />
-                                    </div>
-                                    <div class="item-tag">
-                                        1 hours ago <span>ho chi minh City, vietnam</span> Tour only <span>$365</span>
-                                    </div>
-                                    <div class="body">
-
-                                        <p>Integer sollicitudin ligula non enim sodales, non lacinia nunc ornare. Sed commodo tempor dapibus.<br> Duis convallis turpis in tortor volutpat, eget rhoncus nisi fringilla. Phasellus ornare risus in euismod varius nullam feugiat ultrices.<br> Sed condimentum est libero, aliquet iaculis diam bibendum ullamcorper.</p>
-
-                                    </div>              
-                                </div>
-
-                                <div class="item">
-                                    <div class="thumb">
-                                        <img src="http://placehold.it/100x100" alt="" />
-                                    </div>
-                                    <div class="item-tag">
-                                        1 hours ago <span>ho chi minh City, vietnam</span> Tour only <span>$365</span>
-                                    </div>
-                                    <div class="body">
-
-                                        <p>Integer sollicitudin ligula non enim sodales, non lacinia nunc ornare. Sed commodo tempor dapibus.<br> Duis convallis turpis in tortor volutpat, eget rhoncus nisi fringilla. Phasellus ornare risus in euismod varius nullam feugiat ultrices.<br> Sed condimentum est libero, aliquet iaculis diam bibendum ullamcorper.</p>
-
-                                    </div>              
-                                </div>
-                            </div>
-
-                            <div class="post-navigation">
-                                <div class="nex-prev-post">
-                                    <a href="#" class="button green previous ">
-                                        <i class="arrow_carrot-left"></i>
-                                    </a>
-
-                                    <a href="#" class="button green next ">
-                                        <i class="arrow_carrot-right"></i>
-                                    </a>
-                                </div>
-
-                            </div>
-                        </div>
-                    </article> -->
-
                     <div class="row">
-                        <div class="col-xs-12 col-md-4">
-                            <div class="mix col-xs-12 tour-category-item amazing-tours-item" >
-
-                                <div class="inner">
-
-
-                                    <h3 class="category-heading">Africa Tours</h3>
-
-                                    <div class="featured-tour">
-
-                                        <div class="image" >
-                                            <div class="hover">
-
-                                                <a href="#" class="readmore-link ">
-
-                                                    <span class="fa-stack fa-lg">
-                                                        <i class="fa fa-circle-o fa-stack-2x"></i>
-                                                        <i class="fa fa-chevron-right fa-stack-1x"></i>
-                                                    </span>
-                                                </a>
-                                                <a href="#" class="permanent-link ">
-
-                                                    <span class="fa-stack fa-lg">
-                                                        <i class="fa fa-circle-o fa-stack-2x"></i>
-                                                        <i class="fa fa-link fa-stack-1x"></i>
-                                                    </span>
-                                                </a>
-
-                                            </div>
-                                            <img src="images/content/featured-tour-4.png" alt="Siam Paragon, Bangkok" class="responsive-image">
-                                        </div>
-
-                                        <div class="entry"> 
-
-                                            <article class="entry-content">
-
-                                                <h1><a href="#" title="Siam Paragon, Bangkok">Siam Paragon, Bangkok</a></h1>
-
-                                                <p>
-                                                    Phasellus condimentum lacus nec justo lacinia sodales. Pellentesque pellentesque ultricies urna, at pretium est aliquet et. Sed nec porta lectus. Sed laoreet tellus at mollis porta.   
-                                                </p>
-
-                                            </article>
-
-
-                                            <div class="entry-meta">
-                                                <div class="star-holder"><div class="star" data-score="3"></div></div>
-                                                <span class="review"><a href="#">24 Reviews</a></span>
-                                                <span class="go-detail"><a href="#">More</a></span>
-                                            </div>                          
-
-                                        </div><!--/.entry -->
-
-                                    </div><!-- /.featured-tour -->
-
-
-
-
-                                </div><!-- /.inner -->
-
-
-                            </div>
-                        </div>
-
-                        <div class="col-xs-12 col-md-4">
-                            <div class="mix col-xs-12 tour-category-item amazing-tours-item" >
-
-                                <div class="inner">
-
-
-                                    <h3 class="category-heading">Asia Tours</h3>
-
-                                    <div class="featured-tour">
-
-                                        <div class="image" >
-                                            <div class="hover">
-
-                                                <a href="#" class="readmore-link ">
-
-                                                    <span class="fa-stack fa-lg">
-                                                        <i class="fa fa-circle-o fa-stack-2x"></i>
-                                                        <i class="fa fa-chevron-right fa-stack-1x"></i>
-                                                    </span>
-                                                </a>
-                                                <a href="#" class="permanent-link ">
-
-                                                    <span class="fa-stack fa-lg">
-                                                        <i class="fa fa-circle-o fa-stack-2x"></i>
-                                                        <i class="fa fa-link fa-stack-1x"></i>
-                                                    </span>
-                                                </a>
-
-                                            </div>
-                                            <img src="images/content/featured-tour-3.png" alt="Siam Paragon, Bangkok" class="responsive-image">
-                                        </div>
-
-                                        <div class="entry"> 
-
-                                            <article class="entry-content">
-
-                                                <h1><a href="#" title="Siam Paragon, Bangkok">Siam Paragon, Bangkok</a></h1>
-
-                                                <p>
-                                                    Phasellus condimentum lacus nec justo lacinia sodales. Pellentesque pellentesque ultricies urna, at pretium est aliquet et. Sed nec porta lectus. Sed laoreet tellus at mollis porta.   
-                                                </p>
-
-                                            </article>
-
-
-                                            <div class="entry-meta">
-                                                <div class="star-holder"><div class="star" data-score="3"></div></div>
-                                                <span class="review"><a href="#">24 Reviews</a></span>
-                                                <span class="go-detail"><a href="#">More</a></span>
-                                            </div>                          
-
-                                        </div><!--/.entry -->
-
-                                    </div><!-- /.featured-tour -->
-
-
-
-
-                                </div><!-- /.inner -->
-
-
-                            </div>
-                        </div>
-
-                        <div class="col-xs-12 col-md-4">
-                            <div class="mix col-xs-12 tour-category-item amazing-tours-item" >
-
-                                <div class="inner">
-
-
-                                    <h3 class="category-heading">Europe Tours</h3>
-
-                                    <div class="featured-tour">
-
-                                        <div class="image" >
-                                            <div class="hover">
-
-                                                <a href="#" class="readmore-link ">
-
-                                                    <span class="fa-stack fa-lg">
-                                                        <i class="fa fa-circle-o fa-stack-2x"></i>
-                                                        <i class="fa fa-chevron-right fa-stack-1x"></i>
-                                                    </span>
-                                                </a>
-                                                <a href="#" class="permanent-link ">
-
-                                                    <span class="fa-stack fa-lg">
-                                                        <i class="fa fa-circle-o fa-stack-2x"></i>
-                                                        <i class="fa fa-link fa-stack-1x"></i>
-                                                    </span>
-                                                </a>
-
-                                            </div>
-                                            <img src="images/content/featured-tour-2.png" alt="Siam Paragon, Bangkok" class="responsive-image">
-                                        </div>
-
-                                        <div class="entry"> 
-
-                                            <article class="entry-content">
-
-                                                <h1><a href="#" title="Siam Paragon, Bangkok">Siam Paragon, Bangkok</a></h1>
-
-                                                <p>
-                                                    Phasellus condimentum lacus nec justo lacinia sodales. Pellentesque pellentesque ultricies urna, at pretium est aliquet et. Sed nec porta lectus. Sed laoreet tellus at mollis porta.   
-                                                </p>
-
-                                            </article>
-
-
-                                            <div class="entry-meta">
-                                                <div class="star-holder"><div class="star" data-score="3"></div></div>
-                                                <span class="review"><a href="#">24 Reviews</a></span>
-                                                <span class="go-detail"><a href="#">More</a></span>
-                                            </div>                          
-
-                                        </div><!--/.entry -->
-
-                                    </div><!-- /.featured-tour -->
-
-
-
-
-                                </div><!-- /.inner -->
-
-
-                            </div>
-                        </div>
-
-                        <div class="col-xs-12 col-md-4">
-                            <div class="mix col-xs-12 tour-category-item amazing-tours-item" >
-
-                                <div class="inner">
-
-
-                                    <h3 class="category-heading">Africa Tours</h3>
-
-                                    <div class="featured-tour">
-
-                                        <div class="image" >
-                                            <div class="hover">
-
-                                                <a href="#" class="readmore-link ">
-
-                                                    <span class="fa-stack fa-lg">
-                                                        <i class="fa fa-circle-o fa-stack-2x"></i>
-                                                        <i class="fa fa-chevron-right fa-stack-1x"></i>
-                                                    </span>
-                                                </a>
-                                                <a href="#" class="permanent-link ">
-
-                                                    <span class="fa-stack fa-lg">
-                                                        <i class="fa fa-circle-o fa-stack-2x"></i>
-                                                        <i class="fa fa-link fa-stack-1x"></i>
-                                                    </span>
-                                                </a>
-
-                                            </div>
-                                            <img src="images/content/featured-tour-4.png" alt="Siam Paragon, Bangkok" class="responsive-image">
-                                        </div>
-
-                                        <div class="entry"> 
-
-                                            <article class="entry-content">
-
-                                                <h1><a href="#" title="Siam Paragon, Bangkok">Siam Paragon, Bangkok</a></h1>
-
-                                                <p>
-                                                    Phasellus condimentum lacus nec justo lacinia sodales. Pellentesque pellentesque ultricies urna, at pretium est aliquet et. Sed nec porta lectus. Sed laoreet tellus at mollis porta.   
-                                                </p>
-
-                                            </article>
-
-
-                                            <div class="entry-meta">
-                                                <div class="star-holder"><div class="star" data-score="3"></div></div>
-                                                <span class="review"><a href="#">24 Reviews</a></span>
-                                                <span class="go-detail"><a href="#">More</a></span>
-                                            </div>                          
-
-                                        </div><!--/.entry -->
-
-                                    </div><!-- /.featured-tour -->
-
-
-
-
-                                </div><!-- /.inner -->
-
-
-                            </div>
-                        </div>
-
-                        <div class="col-xs-12 col-md-4">
-                            <div class="mix col-xs-12 tour-category-item amazing-tours-item" >
-
-                                <div class="inner">
-
-
-                                    <h3 class="category-heading">Asia Tours</h3>
-
-                                    <div class="featured-tour">
-
-                                        <div class="image" >
-                                            <div class="hover">
-
-                                                <a href="#" class="readmore-link ">
-
-                                                    <span class="fa-stack fa-lg">
-                                                        <i class="fa fa-circle-o fa-stack-2x"></i>
-                                                        <i class="fa fa-chevron-right fa-stack-1x"></i>
-                                                    </span>
-                                                </a>
-                                                <a href="#" class="permanent-link ">
-
-                                                    <span class="fa-stack fa-lg">
-                                                        <i class="fa fa-circle-o fa-stack-2x"></i>
-                                                        <i class="fa fa-link fa-stack-1x"></i>
-                                                    </span>
-                                                </a>
-
-                                            </div>
-                                            <img src="images/content/featured-tour-3.png" alt="Siam Paragon, Bangkok" class="responsive-image">
-                                        </div>
-
-                                        <div class="entry"> 
-
-                                            <article class="entry-content">
-
-                                                <h1><a href="#" title="Siam Paragon, Bangkok">Siam Paragon, Bangkok</a></h1>
-
-                                                <p>
-                                                    Phasellus condimentum lacus nec justo lacinia sodales. Pellentesque pellentesque ultricies urna, at pretium est aliquet et. Sed nec porta lectus. Sed laoreet tellus at mollis porta.   
-                                                </p>
-
-                                            </article>
-
-
-                                            <div class="entry-meta">
-                                                <div class="star-holder"><div class="star" data-score="3"></div></div>
-                                                <span class="review"><a href="#">24 Reviews</a></span>
-                                                <span class="go-detail"><a href="#">More</a></span>
-                                            </div>                          
-
-                                        </div><!--/.entry -->
-
-                                    </div><!-- /.featured-tour -->
-
-
-
-
-                                </div><!-- /.inner -->
-
-
-                            </div>
-                        </div>
-
-
-                        <div class="col-xs-12 col-md-4">
-                            <div class="mix col-xs-12 tour-category-item amazing-tours-item" >
-
-                                <div class="inner">
-
-
-                                    <h3 class="category-heading">Europe Tours</h3>
-
-                                    <div class="featured-tour">
-
-                                        <div class="image" >
-                                            <div class="hover">
-
-                                                <a href="#" class="readmore-link ">
-
-                                                    <span class="fa-stack fa-lg">
-                                                        <i class="fa fa-circle-o fa-stack-2x"></i>
-                                                        <i class="fa fa-chevron-right fa-stack-1x"></i>
-                                                    </span>
-                                                </a>
-                                                <a href="#" class="permanent-link ">
-
-                                                    <span class="fa-stack fa-lg">
-                                                        <i class="fa fa-circle-o fa-stack-2x"></i>
-                                                        <i class="fa fa-link fa-stack-1x"></i>
-                                                    </span>
-                                                </a>
-
-                                            </div>
-                                            <img src="images/content/featured-tour-2.png" alt="Siam Paragon, Bangkok" class="responsive-image">
-                                        </div>
-
-                                        <div class="entry"> 
-
-                                            <article class="entry-content">
-
-                                                <h1><a href="#" title="Siam Paragon, Bangkok">Siam Paragon, Bangkok</a></h1>
-
-                                                <p>
-                                                    Phasellus condimentum lacus nec justo lacinia sodales. Pellentesque pellentesque ultricies urna, at pretium est aliquet et. Sed nec porta lectus. Sed laoreet tellus at mollis porta.   
-                                                </p>
-
-                                            </article>
-
-
-                                            <div class="entry-meta">
-                                                <div class="star-holder"><div class="star" data-score="3"></div></div>
-                                                <span class="review"><a href="#">24 Reviews</a></span>
-                                                <span class="go-detail"><a href="#">More</a></span>
-                                            </div>                          
-
-                                        </div><!--/.entry -->
-
-                                    </div><!-- /.featured-tour -->
-
-
-
-
-                                </div><!-- /.inner -->
-
-
-                            </div>
-                        </div>
-
+                        <?php if (isset($data['search_out'])) {
+                            foreach ($data['search_out'] as $tours) { ?>
+                                <div class="col-xs-12 col-md-4">
+                                    <div class="mix col-xs-12 tour-category-item amazing-tours-item" >
+                                        <div class="inner">
+                                            <h3 class="category-heading"><?php echo $tours['name']; ?></h3>
+                                            <div class="featured-tour">
+                                                <div class="image" >
+                                                    <div class="hover">
+                                                        <a href="#" class="readmore-link ">
+                                                            <span class="fa-stack fa-lg">
+                                                                <i class="fa fa-circle-o fa-stack-2x"></i>
+                                                                <i class="fa fa-chevron-right fa-stack-1x"></i>
+                                                            </span>
+                                                        </a>
+                                                        <a href="#" class="permanent-link ">
+                                                            <span class="fa-stack fa-lg">
+                                                                <i class="fa fa-circle-o fa-stack-2x"></i>
+                                                                <i class="fa fa-link fa-stack-1x"></i>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <img src="images/content/featured-tour-4.png" alt="Siam Paragon, Bangkok" class="responsive-image">
+                                                </div>
+                                                <div class="entry"> 
+                                                    <article class="entry-content">
+                                                        <h1><a href="#" title="Siam Paragon, Bangkok"><?php echo $tours['name']; ?></a></h1>
+                                                        <p>
+                                                            <?php echo $tours['content']; ?>
+                                                        </p>
+                                                    </article>
+                                                    <div class="entry-meta">
+                                                        <div class="star-holder"><div class="star" data-score="3"></div></div>
+                                                        <span class="review"><a href="#">24 Reviews</a></span>
+                                                        <span class="go-detail"><a href="#">More</a></span>
+                                                    </div>                          
+                                                </div><!--/.entry -->
+                                            </div><!-- /.featured-tour -->
+                                        </div><!-- /.inner -->
+                                    </div>
+                                </div>
+                            <?php }
+                        } else if ($data['tours']) {
+                            foreach ($data['tours'] as $tours) { ?>
+                                <div class="col-xs-12 col-md-4">
+                                    <div class="mix col-xs-12 tour-category-item amazing-tours-item" >
+                                        <div class="inner">
+                                            <h3 class="category-heading"><?php echo $tours['name']; ?></h3>
+                                            <div class="featured-tour">
+                                                <div class="image" >
+                                                    <div class="hover">
+                                                        <a href="#" class="readmore-link ">
+                                                            <span class="fa-stack fa-lg">
+                                                                <i class="fa fa-circle-o fa-stack-2x"></i>
+                                                                <i class="fa fa-chevron-right fa-stack-1x"></i>
+                                                            </span>
+                                                        </a>
+                                                        <a href="#" class="permanent-link ">
+                                                            <span class="fa-stack fa-lg">
+                                                                <i class="fa fa-circle-o fa-stack-2x"></i>
+                                                                <i class="fa fa-link fa-stack-1x"></i>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <img src="images/content/featured-tour-4.png" alt="Siam Paragon, Bangkok" class="responsive-image">
+                                                </div>
+                                                <div class="entry"> 
+                                                    <article class="entry-content">
+                                                        <h1><a href="#" title="Siam Paragon, Bangkok"><?php echo $tours['name']; ?></a></h1>
+                                                        <p>
+                                                            <?php echo $tours['content']; ?>
+                                                        </p>
+                                                    </article>
+                                                    <div class="entry-meta">
+                                                        <div class="star-holder"><div class="star" data-score="3"></div></div>
+                                                        <span class="review"><a href="#">24 Reviews</a></span>
+                                                        <span class="go-detail"><a href="#">More</a></span>
+                                                    </div>                          
+                                                </div><!--/.entry -->
+                                            </div><!-- /.featured-tour -->
+                                        </div><!-- /.inner -->
+                                    </div>
+                                </div>
+                            <?php }
+                        }
+                        ?>
                     </div>
 
                     <button class="load-more button wide-fat" >Load More</button>
@@ -701,21 +336,6 @@
 
 
             </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             <footer id="footer-2" class="widefat ">
 
 
